@@ -113,7 +113,7 @@ is less than the input number and returing this value. The square can be easily 
 
 **MEMORY LEAKS REMOVAL**
 
-A good memory leak detection tool for Windows is provided by https://github.com/bibhas2/Memd 
+A good memory leak detection tool for Windows is provided by https://github.com/bibhas2/Memd.
 The library easily detects memory leaks in the program and gives line by line information regarding it.
 A great alternative for Valgrind in Windows.
 
